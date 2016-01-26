@@ -1,7 +1,7 @@
 Resources
 =========
 
-* [http://www.healthmap.org/en/](Healthmap)
+* [Healthmap](http://www.healthmap.org/zika/)
 
 Data links
 ----------
